@@ -11,7 +11,6 @@ class Gaming {
 
 
 class TicTacToe implements ActionListener{
-
 	Random random = new Random();
 	JFrame frame = new JFrame();
 	JPanel title_panel = new JPanel();
@@ -370,6 +369,10 @@ public void reset() {
 
 }
 }
+
+
+
+
 
 
 
